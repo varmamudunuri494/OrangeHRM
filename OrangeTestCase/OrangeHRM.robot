@@ -4,8 +4,10 @@ Library                String
 Library                DateTime
 Suite Setup            Open Browser                about:blank                 chrome
 Suite Teardown         Close All Browsers
+Resource    ..
 
 *** Test Cases ***
 Orange HRM Site Automate
     [Tags]             OrangeHRM
-    [Documentation]    Testing the OrnageHRM Suite
+    [Documentation]    Testing the OrangeHRM Suite
+    Appstate           Home
