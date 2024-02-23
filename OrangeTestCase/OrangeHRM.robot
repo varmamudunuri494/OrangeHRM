@@ -12,3 +12,4 @@ To test TimesofIndia
     [Tags]             TimesofIndia Site
     [Documentation]    Times of India Site
     Appstate           Home
+    ClickText          Solutions
