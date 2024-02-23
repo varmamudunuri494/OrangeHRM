@@ -12,6 +12,7 @@ To test TimesofIndia
     [Tags]             TimesofIndia Site
     [Documentation]    Times of India Site
     Appstate           Home
+    Sleep              10s
     #ClickText         Solutions
     #ClickText         People Management
     #ClickText         HR Administration
