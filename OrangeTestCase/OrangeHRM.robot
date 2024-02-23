@@ -12,6 +12,7 @@ To test TimesofIndia
     [Tags]             TimesofIndia Site
     [Documentation]    Times of India Site
     Appstate           Home
-    ClickText          Solutions
-    ClickText          People Management
-    ClickText          HR Administration
+    #ClickText          Solutions
+    #ClickText          People Management
+    #ClickText          HR Administration
+    ClickText          //div[@style\='background-color: #f5b184;']
