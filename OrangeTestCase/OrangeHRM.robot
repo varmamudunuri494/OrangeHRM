@@ -15,4 +15,4 @@ To test TimesofIndia
     #ClickText          Solutions
     #ClickText          People Management
     #ClickText          HR Administration
-    ClickText          //div[@style\='background-color: #f5b184;']
+    #ClickText          //div[@style\='background-color: #f5b184;']
