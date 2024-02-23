@@ -13,5 +13,5 @@ To test TimesofIndia
     [Documentation]    Times of India Site
     Appstate           Home
     ClickText          Solutions
-    ClickText          People\n Management
-    ClickText          HR\n Administration
+    ClickText          People Management
+    ClickText          HR Administration
