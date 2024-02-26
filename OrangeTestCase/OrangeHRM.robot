@@ -22,4 +22,4 @@ To test TimesofIndia
     ClickText          Solutions
     ClickText          People Management
     ClickText          HR Administration
-    ClickText          Book\n a\n Free\n Demo\n
+    ClickElement       //div[@class\='platform-main-description']//button[@class\='btn btn-ohrm']//a
