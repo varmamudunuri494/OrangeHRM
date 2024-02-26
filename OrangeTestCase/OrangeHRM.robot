@@ -22,4 +22,4 @@ To test TimesofIndia
     ClickText          Solutions
     ClickText          People Management
     ClickText          HR Administration
-    ClickText          \n \n Book a Free Demo\n \n\n
+    ClickText          Book\n a\n Free\n Demo\n
