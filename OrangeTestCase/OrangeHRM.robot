@@ -9,8 +9,8 @@ Resource               ../OrangeCommom/OrangeHRMCommon.robot
 
 *** Test Cases ***
 To test TimesofIndia
-    [Tags]             TimesofIndia Site
-    [Documentation]    Times of India Site
+    [Tags]             OrangeHRM Site
+    [Documentation]    Automating the Orange HRM Site
     Appstate           Home
     Sleep              10s
     #ClickText         Solutions
