@@ -23,3 +23,4 @@ To test TimesofIndia
     ClickText          People Management
     ClickText          HR Administration
     ClickElement       //div[@class\='platform-main-description']//button[@class\='btn btn-ohrm']//a
+    TypeText           //input[@id\='Form_getForm_FullName']    Mudunuri Mahendra Varma
