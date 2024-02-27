@@ -27,3 +27,4 @@ To test TimesofIndia
     TypeText           //input[@id\='Form_getForm_Email']                      2emailvarma@gmail.com
     TypeText           //input[@id\='Form_getForm_CompanyName']                Ayansh Industries
     DropDown           Country                     India
+    ClickIcon          //span[@class\='recaptcha-checkbox goog-inline-block recaptcha-checkbox-unchecked rc-anchor-checkbox']
