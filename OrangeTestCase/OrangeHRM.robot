@@ -26,3 +26,4 @@ To test TimesofIndia
     TypeText           //input[@id\='Form_getForm_FullName']                   Mudunuri Mahendra Varma
     TypeText           //input[@id\='Form_getForm_Email']                      2emailvarma@gmail.com
     TypeText           //input[@id\='Form_getForm_CompanyName']                Ayansh Industries
+    DropDown           Country                        India
