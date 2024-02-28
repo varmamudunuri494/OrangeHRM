@@ -29,3 +29,4 @@ To test TimesofIndia
     DropDown           Country                     India
     TypeText           Phone Number                9908425623
     ClickText          //span[@class\='recaptcha-checkbox goog-inline-block recaptcha-checkbox-unchecked rc-anchor-checkbox']    Yes
+    ClickText          Get a Free Demo             partial_match=False
