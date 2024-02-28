@@ -24,7 +24,7 @@ To test TimesofIndia
     ClickText          HR Administration
     ClickElement       //div[@class\='platform-main-description']//button[@class\='btn btn-ohrm']//a
     TypeText           //input[@id\='Form_getForm_FullName']                   Mudunuri Mahendra Varma
-    TypeText           //input[@id\='Form_getForm_Email']                      2emailvarma@gmail.com
+    TypeText           //input[@id\='Form_getForm_Email']                      varmamudunuri@gmail.com
     TypeText           //input[@id\='Form_getForm_CompanyName']                Ayansh Industries
     DropDown           Country                     India
     TypeText           Phone Number                9908425623
