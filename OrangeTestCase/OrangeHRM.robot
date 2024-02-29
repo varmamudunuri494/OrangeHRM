@@ -36,4 +36,4 @@ To test TimesofIndia
     ClickText          News Articles
     VerifyText         Open source tools can help small businesses cut costs and save time
     ClickElement       //div[@class\='news-explore-link']//a
-    ClickText          Yes, I’m happy
+    ClickElement       //button[@class\='message-component message-button no-children focusable btn-primary sp_choice_type_11']
