@@ -34,3 +34,5 @@ To test TimesofIndia
     # End for the solutions people management
     ClickText          Company
     ClickText          News Articles
+    VerifyText         Open source tools can help small businesses cut costs and save time
+    ClickElement       //div[@class\='news-explore-link']//a
